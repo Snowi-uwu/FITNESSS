@@ -1,4 +1,4 @@
-let buttons = document.querySelectorAll('.baner-pagination-button')
+let buttons = document.querySelectorAll('.banner-pagination-button')
 console.log(buttons)
 
 for (let button of buttons) {
